@@ -1,0 +1,83 @@
+#mouse-cursor {
+    .mouse-cursor-span {
+        height: 35px;
+        width: 25%;
+    }
+
+    #mouse-cursor-body {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+
+    #mouse-cursor-auto {
+        cursor: auto;
+    }
+    #mouse-cursor-crosshair {
+        cursor: crosshair;
+    }
+    #mouse-cursor-default {
+        cursor: default;
+    }
+    #mouse-cursor-move {
+        cursor: move;
+    }
+    #mouse-cursor-help {
+        cursor: help;
+    }
+    #mouse-cursor-text {
+        cursor: text;
+    }
+    #mouse-cursor-wait {
+        cursor: wait;
+    }
+    #mouse-cursor-n-resize {
+        cursor: n-resize;
+    }
+    #mouse-cursor-s-resize {
+        cursor: s-resize;
+    }
+    #mouse-cursor-ne-resize {
+        cursor: ne-resize;
+    }
+    #mouse-cursor-sw-resize {
+        cursor: sw-resize;
+    }
+    #mouse-cursor-nw-resize {
+        cursor: nw-resize;
+    }
+    #mouse-cursor-se-resize {
+        cursor: se-resize;
+    }
+    #mouse-cursor-e-resize {
+        cursor: e-resize;
+    }
+    #mouse-cursor-w-resize {
+        cursor: w-resize;
+    }
+    #mouse-cursor-pointer {
+        cursor: pointer;
+    }
+    #mouse-cursor-progress {
+        cursor: progress;
+    }
+    #mouse-cursor-not-allowed {
+        cursor: not-allowed;
+    }
+    #mouse-cursor-no-drop {
+        cursor: no-drop;
+    }
+    #mouse-cursor-vertical-text {
+        cursor: vertical-text;
+    }
+    #mouse-cursor-all-scroll {
+        cursor: all-scroll;
+    }
+    #mouse-cursor-col-resize {
+        cursor: col-resize;
+    }
+    #mouse-cursor-row-resize {
+        cursor: row-resize;
+    }
+}

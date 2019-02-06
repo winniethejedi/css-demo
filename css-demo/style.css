@@ -1,0 +1,81 @@
+#mouse-cursor .mouse-cursor-span {
+  height: 35px;
+  width: 25%;
+}
+#mouse-cursor #mouse-cursor-body {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+#mouse-cursor #mouse-cursor-auto {
+  cursor: auto;
+}
+#mouse-cursor #mouse-cursor-crosshair {
+  cursor: crosshair;
+}
+#mouse-cursor #mouse-cursor-default {
+  cursor: default;
+}
+#mouse-cursor #mouse-cursor-move {
+  cursor: move;
+}
+#mouse-cursor #mouse-cursor-help {
+  cursor: help;
+}
+#mouse-cursor #mouse-cursor-text {
+  cursor: text;
+}
+#mouse-cursor #mouse-cursor-wait {
+  cursor: wait;
+}
+#mouse-cursor #mouse-cursor-n-resize {
+  cursor: n-resize;
+}
+#mouse-cursor #mouse-cursor-s-resize {
+  cursor: s-resize;
+}
+#mouse-cursor #mouse-cursor-ne-resize {
+  cursor: ne-resize;
+}
+#mouse-cursor #mouse-cursor-sw-resize {
+  cursor: sw-resize;
+}
+#mouse-cursor #mouse-cursor-nw-resize {
+  cursor: nw-resize;
+}
+#mouse-cursor #mouse-cursor-se-resize {
+  cursor: se-resize;
+}
+#mouse-cursor #mouse-cursor-e-resize {
+  cursor: e-resize;
+}
+#mouse-cursor #mouse-cursor-w-resize {
+  cursor: w-resize;
+}
+#mouse-cursor #mouse-cursor-pointer {
+  cursor: pointer;
+}
+#mouse-cursor #mouse-cursor-progress {
+  cursor: progress;
+}
+#mouse-cursor #mouse-cursor-not-allowed {
+  cursor: not-allowed;
+}
+#mouse-cursor #mouse-cursor-no-drop {
+  cursor: no-drop;
+}
+#mouse-cursor #mouse-cursor-vertical-text {
+  cursor: vertical-text;
+}
+#mouse-cursor #mouse-cursor-all-scroll {
+  cursor: all-scroll;
+}
+#mouse-cursor #mouse-cursor-col-resize {
+  cursor: col-resize;
+}
+#mouse-cursor #mouse-cursor-row-resize {
+  cursor: row-resize;
+}
+
+/*# sourceMappingURL=style.css.map */
